@@ -19,5 +19,4 @@
 
 ## Circuit Diagram
 ![Circuit Diagram](https://github.com/Adi2198/IoT/blob/main/Circuit.jpg)
-## Detailed Project Report
-[embed]http://example.com/file.pdf[/embed]
+## [Detailed Project Report](https://github.com/Adi2198/IoT/blob/main/Code/Report%20for%20Github.pdf)
